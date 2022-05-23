@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cb9cf9c1-cc24-4356-9033-f180dd2d8fe2" name="Changes" comment="Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alurareceita/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/alurareceita/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/receitas/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/receitas/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/receitas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/receitas/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TODO_SCOPE": "Project Files",
-    "last_opened_file_path": "C:/Users/DELL/Desktop/projetos/testes",
+    "last_opened_file_path": "C:/Users/DELL/Desktop/projetos/djangoformação",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
